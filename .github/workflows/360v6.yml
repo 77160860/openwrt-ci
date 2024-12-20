@@ -1,6 +1,7 @@
 #CI项目
 name: 360v6
 
+on:
   #手动编译
   workflow_dispatch:
     inputs:
