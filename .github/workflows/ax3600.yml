@@ -1,6 +1,7 @@
 #CI项目
 name: ax3600
 
+on:
   #手动编译
   workflow_dispatch:
     inputs:
